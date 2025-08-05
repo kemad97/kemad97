@@ -62,7 +62,7 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 - Firebase Authentication + Push Notifications  
 - Hive for local storage, Google sign-in  
 
-### 🎯 [Ball-Balancing Table (https://github.com/kemad97/Ball-Balance-Table)(Graduation Project)]  
+### 🎯 [Ball-Balancing Table (Graduation Project)](https://github.com/kemad97/Ball-Balance-Table) 
 - Raspberry Pi + AVR + OpenCV  
 - PID control of DC motors for real-time ball balancing  
 - Achieved 95% stability in dynamic conditions  
