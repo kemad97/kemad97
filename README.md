@@ -37,12 +37,12 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 - Core Data for offline cart, Firebase Auth, Paypal integration  
 - Alamofire for networking, XCTest with Mocking  
 
-### ⚽ [Sportify iOS App](https://github.com/kemad97/Sports-App-iOS)(#)  
+### ⚽ [Sportify iOS App](https://github.com/kemad97/Sports-App-iOS)  
 - UIKit + MVP architecture  
 - Alamofire + Core Data + Localization  
 - 95% XCTest coverage  
 
-### ✅ [To-Do List iOS App](https://github.com/kemad97/ToDoListApp)(#)  
+### ✅ [To-Do List iOS App](https://github.com/kemad97/ToDoListApp) 
 - Objective‑C + UIKit  
 - Persistent storage with UserDefaults  
 - Real-time notifications via NSNotificationCenter  
@@ -53,7 +53,7 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 - Interactive design with gender, height, weight, age inputs  
 - Calculates BMI with clear UI & responsive layout  
 
-### 🌤️ [Weather App](https://github.com/kemad97/Weather-App)(#)  
+### 🌤️ [Weather App](https://github.com/kemad97/Weather-App)  
 - Android (Kotlin) + MVVM + Coroutines + Retrofit  
 - Room Database for offline storage, Alarm Manager for alerts  
 
@@ -62,7 +62,7 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 - Firebase Authentication + Push Notifications  
 - Hive for local storage, Google sign-in  
 
-### 🎯 [Ball-Balancing Table (Graduation Project)](#)  
+### 🎯 [Ball-Balancing Table (Graduation Project)]  
 - Raspberry Pi + AVR + OpenCV  
 - PID control of DC motors for real-time ball balancing  
 - Achieved 95% stability in dynamic conditions  
