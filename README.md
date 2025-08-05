@@ -32,22 +32,28 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
 ## 📌 Featured Projects  
 
-### 🛍️ [iOS E-Commerce App](#)  
+### 🛍️ [iOS E-Commerce App](https://github.com/Ranahossam156/E-commerce) 
 - SwiftUI + MVVM + Shopify API  
 - Core Data for offline cart, Firebase Auth, Paypal integration  
 - Alamofire for networking, XCTest with Mocking  
 
-### ⚽ [Sportify iOS App](#)  
+### ⚽ [Sportify iOS App](https://github.com/kemad97/Sports-App-iOS)(#)  
 - UIKit + MVP architecture  
 - Alamofire + Core Data + Localization  
 - 95% XCTest coverage  
 
-### ✅ [To-Do List iOS App](#)  
+### ✅ [To-Do List iOS App](https://github.com/kemad97/ToDoListApp)(#)  
 - Objective‑C + UIKit  
 - Persistent storage with UserDefaults  
 - Real-time notifications via NSNotificationCenter  
 
-### 🌤️ [Weather App](#)  
+### ⚖️ [BMI Calculator (Flutter)](https://github.com/kemad97/BMI_Calculator_Flutter)  
+- Cross‑platform Flutter app  
+- Custom widgets & reusable card components  
+- Interactive design with gender, height, weight, age inputs  
+- Calculates BMI with clear UI & responsive layout  
+
+### 🌤️ [Weather App](https://github.com/kemad97/Weather-App)(#)  
 - Android (Kotlin) + MVVM + Coroutines + Retrofit  
 - Room Database for offline storage, Alarm Manager for alerts  
 
@@ -65,7 +71,7 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
 ## 💼 Experience  
 
-### 🔹 BLE Chat & Navigation App (Freelance)  
+### 🔹 BLE Chat & Navigation App (Freelance Project)  
 - iOS app with SwiftUI + CoreBluetooth  
 - Real-time BLE chat & joystick-based device control  
 - MapKit integration & Firebase Authentication  
