@@ -3,7 +3,8 @@
 **iOS Developer | Mobile Application Enthusiast | Embedded Systems Explorer**  
 
 📍 Cairo, Egypt (ready to relocate) | 📧 kerolos.emad992@gmail.com | 📱 (+20) 122-021-2180  
-🌐 [LinkedIn](https://www.linkedin.com/in/kerolosemad/) | [GitHub](https://github.com/kemad97)  
+🌐 [LinkedIn](https://www.linkedin.com/in/kerolosemad/) | [GitHub](https://github.com/kemad97)  | [Mostaqel](https://mostaql.com/u/Kemad9/portfolio)
+
 
 ---
 
@@ -91,7 +92,9 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
  **ITI 9-Month Diploma** – Mobile Application Development (Native), Smart Village, Cairo *(Oct 2024 – Jun 2025)*  
  **B.Sc. in Electrical Engineering (Computer & Control Systems)** – Assiut University *(2019 – 2024)*  
-- Graduation Project: **Ball Balance Table** (Excellent)  
+- Graduation Project: **Ball Balance Table** (Excellent)
+  
+---
 
  **Courses:**  
 - Udemy - The Complete Mobile Development Bootcamp (2025)
