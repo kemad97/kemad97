@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Kerolos Emad  
 
-🚀 **iOS Developer | Mobile Application Enthusiast | Embedded Systems Explorer**  
+**iOS Developer | Mobile Application Enthusiast | Embedded Systems Explorer**  
 
 📍 Cairo, Egypt (ready to relocate) | 📧 kerolos.emad992@gmail.com | 📱 (+20) 122-021-2180  
 🌐 [LinkedIn](https://www.linkedin.com/in/kerolosemad/) | [GitHub](https://github.com/kemad97)  
 
 ---
 
-## 📝 About Me  
+##  About Me  
 Self-driven **iOS developer** passionate about crafting seamless mobile experiences.  
 Skilled in **Swift & Objective-C**, with solid knowledge of **Clean Architecture, MVVM, and design patterns**.  
 I enjoy working on **cross-platform apps (Flutter)** and experimenting with **embedded systems & computer vision**.  
@@ -15,7 +15,7 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
 ---
 
-## 🔧 Technical Skills  
+##  Technical Skills  
 
 - **Programming:** Swift, Objective‑C, Kotlin, Java, C/C++  
 - **iOS Development:** SwiftUI, UIKit, MVVM, MVC, VIPER, Combine, RxSwift, Alamofire, MapKit  
@@ -30,7 +30,24 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
 ---
 
-## 📌 Featured Projects  
+## Work Experience  
+
+### SwiftRates – Currency Exchange Application (Freelance Project) [SwiftRates](https://www.swiftrates.net/?m=1)
+- Designed and developed a mobile app providing real-time currency exchange rates with a clean and intuitive UI.
+- Managed the full App Store release process, including provisioning, signing, and deployment.
+
+### Drubi Food and Driver App (Freelance Project) [AppStore](https://apps.apple.com/us/app/drubi/id6741513852)
+- Developed and maintained two iOS apps with Swift and UIKit — a customer app for browsing restaurants, ordering, and tracking, and a driver app for managing deliveries.
+- Implemented new features such as categories, order details, navigation button, and location-based restaurant suggestions.
+
+### BLE Chat & Navigation App (Freelance Project) [RFOXIA](https://rfoxia.com/premium-ble-module/)
+- iOS app with SwiftUI + CoreBluetooth  
+- Real-time BLE chat & joystick-based device control  
+- MapKit integration & Firebase Authentication  
+
+---
+
+##  Featured Projects  
 
 ### 🛍️ [iOS E-Commerce App](https://github.com/Ranahossam156/E-commerce) 
 - SwiftUI + MVVM + Shopify API  
@@ -69,36 +86,25 @@ Team-oriented collaborator committed to continuous learning and delivering apps 
 
 ---
 
-## 💼 Experience  
 
-### 🔹 BLE Chat & Navigation App (Freelance Project)  
-- iOS app with SwiftUI + CoreBluetooth  
-- Real-time BLE chat & joystick-based device control  
-- MapKit integration & Firebase Authentication  
+##  Education & Courses  
 
----
-
-## 📚 Education & Courses  
-
-🎓 **ITI 9-Month Diploma** – Mobile Application Development (Native), Smart Village, Cairo *(Oct 2024 – Jun 2025)*  
-🎓 **B.Sc. in Electrical Engineering (Computer & Control Systems)** – Assiut University *(2019 – 2024)*  
+ **ITI 9-Month Diploma** – Mobile Application Development (Native), Smart Village, Cairo *(Oct 2024 – Jun 2025)*  
+ **B.Sc. in Electrical Engineering (Computer & Control Systems)** – Assiut University *(2019 – 2024)*  
 - Graduation Project: **Ball Balance Table** (Excellent)  
 
-📘 **Courses:**  
+ **Courses:**  
+- Udemy - The Complete Mobile Development Bootcamp (2025)
+- Object-Oriented Programming (OOP) using C++ (2024)
 - Red Hat Linux System Administration I (2024)  
 - IMT Embedded AVR Diploma (2023)  
 - NTI IoT Program (2022)  
 
 ---
 
-## ⚡ GitHub Stats  
-![Kerolos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemad97&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kemad97&layout=compact&theme=tokyonight)  
-
----
-
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kerolosemad/)  
-- 💻 [GitHub](https://github.com/kemad97)  
-- 📧 kerolos.emad992@gmail.com  
-- 📱  (+20) 122-021-2180  
+##  Connect With Me  
+-  [LinkedIn](https://www.linkedin.com/in/kerolosemad/)  
+-  [GitHub](https://github.com/kemad97)
+-  [Mostaqel](https://mostaql.com/u/Kemad9/portfolio)
+-  kerolos.emad992@gmail.com  
+-  (+20) 122-021-2180  
