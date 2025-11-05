@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kerolos Emad  
 
-**iOS Developer | Mobile Application Developer | Embedded Systems Explorer**  
+**iOS Developer | Mobile Application Developer | Embedded Systems Engineer**  
 
 📍 Cairo, Egypt (ready to relocate) | 📧 kerolos.emad992@gmail.com | 📱 (+20) 122-021-2180  
 🌐 [LinkedIn](https://www.linkedin.com/in/kerolosemad/) | [GitHub](https://github.com/kemad97)  | [Mostaqel](https://mostaql.com/u/Kemad9/portfolio)
